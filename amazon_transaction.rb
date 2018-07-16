@@ -11,7 +11,7 @@ end
 def add_item(title, price)
   
   @total += price
-  @items << title 
+  @item << title 
   end 
 end 
 
